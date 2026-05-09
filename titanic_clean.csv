@@ -1,0 +1,21 @@
+passenger_id,survived,pclass,name,sex,age,fare,embarked
+1,False,3,Mr. Owen,male,22.0,7.25,S
+2,True,1,Mrs. John,female,38.0,71.28,C
+3,True,3,Miss. Laina,female,26.0,7.92,S
+4,True,1,Mrs. Jacques,female,35.0,53.1,S
+5,False,3,Mr. William,male,26.5,8.05,S
+6,False,3,Mr. James,male,26.5,8.46,Q
+7,False,1,Mr. Timothy,male,54.0,51.86,S
+8,False,3,Master. Gosta,male,2.0,21.07,S
+9,True,3,Mrs. Oscar,female,27.0,11.13,S
+10,True,2,Mrs. Nicholas,female,14.0,30.07,C
+11,True,3,Miss. Marguerite,female,4.0,16.7,S
+12,True,1,Miss. Florence,female,58.0,26.55,S
+13,False,3,Mr. Anders,male,20.0,8.05,S
+14,False,3,Mr. Harry,male,39.0,31.27,S
+15,False,3,Miss. Ida,female,14.0,7.85,S
+16,True,2,Mrs. Ernest,female,55.0,16.0,S
+17,False,3,Master. Eugene,male,2.0,29.12,Q
+18,True,2,Mr. Francis,male,26.5,13.0,S
+19,False,3,Mrs. Henry,female,31.0,18.0,S
+20,True,3,Mrs. Lily,female,26.5,7.22,S
