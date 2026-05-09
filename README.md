@@ -1,1 +1,0 @@
-# synent-task2-TitanicDataset-AzkaKhan
